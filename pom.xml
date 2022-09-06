@@ -16,6 +16,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>common</module>
         <module>hx-01-javabase</module>
     </modules>
 
